@@ -1,0 +1,19 @@
+{
+  "name": "react-native-echarts-component",
+  "version": "1.0.0",
+  "description": "react-native-echarts-component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com.cnpmjs.org/MrSandManSy/react-native-echarts-component.git"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.63.3",
+    "react-native-webview": ">=10.9.1"
+  },
+  "author": "sy",
+  "license": "ISC"
+}
